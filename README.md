@@ -1,7 +1,5 @@
 
-if (-not (Test-Path README.md)) {
-@"
-# nse-intraday-momentum
+
 
 Fetch NIFTY50 list, get intraday price & volume, compute momentum score and rank.
 
