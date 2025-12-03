@@ -1,4 +1,4 @@
-# if README.md not present, create one (basic)
+
 if (-not (Test-Path README.md)) {
 @"
 # nse-intraday-momentum
