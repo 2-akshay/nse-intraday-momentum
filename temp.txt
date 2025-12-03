@@ -1,0 +1,440 @@
+﻿{
+  "analyzedAt": "2025-12-03 15:51:42",
+  "count": 48,
+  "ranked": [
+    {
+      "symbol": "WIPRO",
+      "price": 254.2,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "HINDALCO",
+      "price": 818.65,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "TCS",
+      "price": 3180.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ICICIBANK",
+      "price": 1392.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "HDFCBANK",
+      "price": 1000.1,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "INFY",
+      "price": 1575.6,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "AXISBANK",
+      "price": 1269.4,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "DRREDDY",
+      "price": 1280.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "price": 2150.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "POWERGRID",
+      "price": 268.35,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "TECHM",
+      "price": 1540.6,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "HCLTECH",
+      "price": 1639.2,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "price": 1803.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ITC",
+      "price": 400.7,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "price": 2950.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "price": 1022.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "SBILIFE",
+      "price": 1974.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "RELIANCE",
+      "price": 1539.1,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "TATASTEEL",
+      "price": 166.85,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "CIPLA",
+      "price": 1508.1,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "GRASIM",
+      "price": 2717.6,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ETERNAL",
+      "price": 298.5,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "EICHERMOT",
+      "price": 7063.5,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "price": 2087.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "price": 11570.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "TRENT",
+      "price": 4191.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "price": 9007.5,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "price": 7180.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "LT",
+      "price": 3995.5,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "price": 752.25,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "COALINDIA",
+      "price": 375.25,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "MARUTI",
+      "price": 16075.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "JIOFIN",
+      "price": 301.65,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "TMPV",
+      "price": 357.5,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "price": 1500.3,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "price": 2040.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "NESTLEIND",
+      "price": 1241.2,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ONGC",
+      "price": 240.01,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "price": 2441.5,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "price": 1144.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "NTPC",
+      "price": 323.3,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "TITAN",
+      "price": 3820.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "SBIN",
+      "price": 950.8,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "INDIGO",
+      "price": 5599.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "price": 828.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "BEL",
+      "price": 404.65,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "ADANIENT",
+      "price": 2191.6,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    },
+    {
+      "symbol": "TATACONSUM",
+      "price": 1136.0,
+      "volume": 500000,
+      "price_pct": 1.010101,
+      "vol_pct": 100.0,
+      "momentum": 101.010101,
+      "volume_estimated": true
+    }
+  ],
+  "estimated_volume_default": 500000,
+  "estimated_symbols_count": 48
+}
