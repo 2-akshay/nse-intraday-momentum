@@ -1,440 +1,306 @@
 {
-  "analyzedAt": "2025-12-03 15:51:42",
-  "count": 48,
+  "analyzed_at": "2025-12-05 18:08:30",
+  "count": 30,
   "ranked": [
     {
-      "symbol": "WIPRO",
-      "price": 254.2,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "HINDALCO",
-      "price": 818.65,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "TCS",
-      "price": 3180.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "ICICIBANK",
-      "price": 1392.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "HDFCBANK",
-      "price": 1000.1,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "INFY",
-      "price": 1575.6,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "AXISBANK",
-      "price": 1269.4,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "DRREDDY",
-      "price": 1280.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "price": 2150.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "POWERGRID",
-      "price": 268.35,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "TECHM",
-      "price": 1540.6,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "HCLTECH",
-      "price": 1639.2,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "SUNPHARMA",
-      "price": 1803.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "ITC",
-      "price": 400.7,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "ASIANPAINT",
-      "price": 2950.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "price": 1022.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "SBILIFE",
-      "price": 1974.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
       "symbol": "RELIANCE",
-      "price": 1539.1,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "TATASTEEL",
-      "price": 166.85,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "CIPLA",
-      "price": 1508.1,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "GRASIM",
-      "price": 2717.6,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "ETERNAL",
-      "price": 298.5,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "EICHERMOT",
-      "price": 7063.5,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "price": 2087.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "ULTRACEMCO",
-      "price": 11570.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "TRENT",
-      "price": 4191.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "BAJAJ-AUTO",
-      "price": 9007.5,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "APOLLOHOSP",
-      "price": 7180.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "LT",
-      "price": 3995.5,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "HDFCLIFE",
-      "price": 752.25,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "COALINDIA",
-      "price": 375.25,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "MARUTI",
-      "price": 16075.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "JIOFIN",
-      "price": 301.65,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "TMPV",
-      "price": 357.5,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "ADANIPORTS",
-      "price": 1500.3,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "BAJAJFINSV",
-      "price": 2040.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "NESTLEIND",
-      "price": 1241.2,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "ONGC",
-      "price": 240.01,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "HINDUNILVR",
-      "price": 2441.5,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "price_930": 1535.8,
+      "price_1030": 1544.6,
+      "vol_930": 6381077,
+      "vol_1030": 9802395,
+      "price_change_pct": 0.573,
+      "volume_change_pct": 53.617,
+      "momentum_score": 30.722
     },
     {
       "symbol": "JSWSTEEL",
-      "price": 1144.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "price_930": 1160.5,
+      "price_1030": 1170.0,
+      "vol_930": 1853812,
+      "vol_1030": 2316029,
+      "price_change_pct": 0.819,
+      "volume_change_pct": 24.933,
+      "momentum_score": 20.411
+    },
+    {
+      "symbol": "MARUTI",
+      "price_930": 16215.0,
+      "price_1030": 16282.0,
+      "vol_930": 222815,
+      "vol_1030": 324987,
+      "price_change_pct": 0.413,
+      "volume_change_pct": 45.855,
+      "momentum_score": 18.947
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "price_930": 1095.0,
+      "price_1030": 1099.3,
+      "vol_930": 1426027,
+      "vol_1030": 1771873,
+      "price_change_pct": 0.393,
+      "volume_change_pct": 24.252,
+      "momentum_score": 9.524
+    },
+    {
+      "symbol": "AXISBANK",
+      "price_930": 1280.4,
+      "price_1030": 1284.2,
+      "vol_930": 2062402,
+      "vol_1030": 2667839,
+      "price_change_pct": 0.297,
+      "volume_change_pct": 29.356,
+      "momentum_score": 8.712
+    },
+    {
+      "symbol": "EICHERMOT",
+      "price_930": 7195.0,
+      "price_1030": 7212.0,
+      "vol_930": 390293,
+      "vol_1030": 493663,
+      "price_change_pct": 0.236,
+      "volume_change_pct": 26.485,
+      "momentum_score": 6.258
+    },
+    {
+      "symbol": "COALINDIA",
+      "price_930": 378.95,
+      "price_1030": 379.7,
+      "vol_930": 2403250,
+      "vol_1030": 3136115,
+      "price_change_pct": 0.198,
+      "volume_change_pct": 30.495,
+      "momentum_score": 6.035
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "price_930": 2105.8,
+      "price_1030": 2109.8,
+      "vol_930": 2172695,
+      "vol_1030": 2771215,
+      "price_change_pct": 0.19,
+      "volume_change_pct": 27.547,
+      "momentum_score": 5.233
+    },
+    {
+      "symbol": "GRASIM",
+      "price_930": 2743.2,
+      "price_1030": 2747.0,
+      "vol_930": 113265,
+      "vol_1030": 151612,
+      "price_change_pct": 0.139,
+      "volume_change_pct": 33.856,
+      "momentum_score": 4.69
     },
     {
       "symbol": "NTPC",
-      "price": 323.3,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "price_930": 322.8,
+      "price_1030": 323.5,
+      "vol_930": 5399190,
+      "vol_1030": 6550765,
+      "price_change_pct": 0.217,
+      "volume_change_pct": 21.329,
+      "momentum_score": 4.625
     },
     {
-      "symbol": "TITAN",
-      "price": 3820.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "symbol": "ASIANPAINT",
+      "price_930": 2964.7,
+      "price_1030": 2968.5,
+      "vol_930": 688681,
+      "vol_1030": 936718,
+      "price_change_pct": 0.128,
+      "volume_change_pct": 36.016,
+      "momentum_score": 4.616
     },
     {
-      "symbol": "SBIN",
-      "price": 950.8,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "symbol": "JIOFIN",
+      "price_930": 303.15,
+      "price_1030": 303.75,
+      "vol_930": 5278164,
+      "vol_1030": 6462135,
+      "price_change_pct": 0.198,
+      "volume_change_pct": 22.431,
+      "momentum_score": 4.44
     },
     {
-      "symbol": "INDIGO",
-      "price": 5599.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "symbol": "DRREDDY",
+      "price_930": 1273.6,
+      "price_1030": 1275.2,
+      "vol_930": 795490,
+      "vol_1030": 1032432,
+      "price_change_pct": 0.126,
+      "volume_change_pct": 29.786,
+      "momentum_score": 3.742
     },
     {
-      "symbol": "SHRIRAMFIN",
-      "price": 828.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
-    },
-    {
-      "symbol": "BEL",
-      "price": 404.65,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "symbol": "APOLLOHOSP",
+      "price_930": 7179.0,
+      "price_1030": 7189.5,
+      "vol_930": 205636,
+      "vol_1030": 256958,
+      "price_change_pct": 0.146,
+      "volume_change_pct": 24.958,
+      "momentum_score": 3.65
     },
     {
       "symbol": "ADANIENT",
-      "price": 2191.6,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "price_930": 2259.7,
+      "price_1030": 2263.0,
+      "vol_930": 1954887,
+      "vol_1030": 2383194,
+      "price_change_pct": 0.146,
+      "volume_change_pct": 21.91,
+      "momentum_score": 3.2
     },
     {
-      "symbol": "TATACONSUM",
-      "price": 1136.0,
-      "volume": 500000,
-      "price_pct": 1.010101,
-      "vol_pct": 100.0,
-      "momentum": 101.010101,
-      "volume_estimated": true
+      "symbol": "TRENT",
+      "price_930": 4170.4,
+      "price_1030": 4180.0,
+      "vol_930": 597559,
+      "vol_1030": 676179,
+      "price_change_pct": 0.23,
+      "volume_change_pct": 13.157,
+      "momentum_score": 3.029
+    },
+    {
+      "symbol": "BEL",
+      "price_930": 406.55,
+      "price_1030": 406.9,
+      "vol_930": 8696470,
+      "vol_1030": 11538575,
+      "price_change_pct": 0.086,
+      "volume_change_pct": 32.681,
+      "momentum_score": 2.814
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "price_930": 1803.4,
+      "price_1030": 1805.3,
+      "vol_930": 1404541,
+      "vol_1030": 1757543,
+      "price_change_pct": 0.105,
+      "volume_change_pct": 25.133,
+      "momentum_score": 2.648
+    },
+    {
+      "symbol": "POWERGRID",
+      "price_930": 269.65,
+      "price_1030": 269.9,
+      "vol_930": 4246854,
+      "vol_1030": 5407768,
+      "price_change_pct": 0.093,
+      "volume_change_pct": 27.336,
+      "momentum_score": 2.534
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "price_930": 2154.1,
+      "price_1030": 2156.0,
+      "vol_930": 1500588,
+      "vol_1030": 1917071,
+      "price_change_pct": 0.088,
+      "volume_change_pct": 27.755,
+      "momentum_score": 2.448
+    },
+    {
+      "symbol": "CIPLA",
+      "price_930": 1519.5,
+      "price_1030": 1520.8,
+      "vol_930": 667106,
+      "vol_1030": 804523,
+      "price_change_pct": 0.086,
+      "volume_change_pct": 20.599,
+      "momentum_score": 1.762
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "price_930": 768.15,
+      "price_1030": 769.0,
+      "vol_930": 1428732,
+      "vol_1030": 1651438,
+      "price_change_pct": 0.111,
+      "volume_change_pct": 15.588,
+      "momentum_score": 1.725
+    },
+    {
+      "symbol": "LT",
+      "price_930": 4033.6,
+      "price_1030": 4037.0,
+      "vol_930": 897426,
+      "vol_1030": 1060959,
+      "price_change_pct": 0.084,
+      "volume_change_pct": 18.222,
+      "momentum_score": 1.536
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "price_930": 1509.8,
+      "price_1030": 1511.0,
+      "vol_930": 953424,
+      "vol_1030": 1132668,
+      "price_change_pct": 0.079,
+      "volume_change_pct": 18.8,
+      "momentum_score": 1.494
+    },
+    {
+      "symbol": "TCS",
+      "price_930": 3234.9,
+      "price_1030": 3238.2,
+      "vol_930": 4642985,
+      "vol_1030": 5207706,
+      "price_change_pct": 0.102,
+      "volume_change_pct": 12.163,
+      "momentum_score": 1.241
+    },
+    {
+      "symbol": "TATASTEEL",
+      "price_930": 167.0,
+      "price_1030": 167.11,
+      "vol_930": 28540634,
+      "vol_1030": 33329058,
+      "price_change_pct": 0.066,
+      "volume_change_pct": 16.778,
+      "momentum_score": 1.105
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "price_930": 9104.0,
+      "price_1030": 9109.0,
+      "vol_930": 233160,
+      "vol_1030": 278368,
+      "price_change_pct": 0.055,
+      "volume_change_pct": 19.389,
+      "momentum_score": 1.065
+    },
+    {
+      "symbol": "ITC",
+      "price_930": 404.95,
+      "price_1030": 405.15,
+      "vol_930": 3685508,
+      "vol_1030": 4374534,
+      "price_change_pct": 0.049,
+      "volume_change_pct": 18.696,
+      "momentum_score": 0.923
+    },
+    {
+      "symbol": "ICICIBANK",
+      "price_930": 1391.9,
+      "price_1030": 1392.1,
+      "vol_930": 3541911,
+      "vol_1030": 4727496,
+      "price_change_pct": 0.014,
+      "volume_change_pct": 33.473,
+      "momentum_score": 0.481
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "price_930": 2340.6,
+      "price_1030": 2341.0,
+      "vol_930": 3319396,
+      "vol_1030": 3948934,
+      "price_change_pct": 0.017,
+      "volume_change_pct": 18.965,
+      "momentum_score": 0.324
     }
-  ],
-  "estimated_volume_default": 500000,
-  "estimated_symbols_count": 48
+  ]
 }
